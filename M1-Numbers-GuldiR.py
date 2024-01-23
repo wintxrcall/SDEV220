@@ -8,4 +8,4 @@ intg_div = seconds_per_day // seconds_per_hour
 print(flt_pt_div)
 print(intg_div)
 
-print("3.6: \n Yes, the float point and integer division returned the same result.")
+print("3.6: \n Yes, the float point and integer division returned the same result aside from the end .0.")
