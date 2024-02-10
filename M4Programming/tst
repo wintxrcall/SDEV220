@@ -1,0 +1,6 @@
+# tst.py
+
+import zoo as menagerie
+
+menagerie.hours()
+
